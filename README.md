@@ -14,10 +14,7 @@
 ## Package
 
 - [jmschrei/pomegranate: Fast, flexible and easy to use probabilistic modelling in Python.](https://github.com/jmschrei/pomegranate)
-
 - [deepmind/graph_nets: Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets)
 - [thu-ml/zhusuan: A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow](https://github.com/thu-ml/zhusuan)
-
 - [AI-DI/Brancher: A user-centered Python package for differentiable probabilistic inference](https://github.com/AI-DI/Brancher)
-
 - [microsoft/dowhy: DoWhy is a Python library that makes it easy to estimate causal effects. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.](https://github.com/Microsoft/dowhy)
